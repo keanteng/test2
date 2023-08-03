@@ -14,6 +14,7 @@ from shapely.geometry import Polygon
 st.set_page_config(layout="wide")
 warnings.filterwarnings("ignore")
 
+os.environ["EARTHENGINE_TOKEN"] == st.secrets["EARTHENGINE_TOKEN"]
 
 @st.cache_data
 def ee_authenticate(token_name="EARTHENGINE_TOKEN"):
