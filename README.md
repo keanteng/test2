@@ -1,3 +1,5 @@
+![Statis Badge](https://readthedocs.org/projects/test2/badge/?version=latest&style)
+
 ```           _______
                            _,,ad8888888888bba,_
                         ,ad88888I888888888888888ba,
